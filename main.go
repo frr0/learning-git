@@ -13,3 +13,11 @@ func f(){}
 func f(){}
 func f(){}
 func f(){}
+func f(){}
+func f(){}
+func f(){}
+func f(){}
+func f(){}
+func f(){}
+func f(){}
+func f(){}
