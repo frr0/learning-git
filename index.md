@@ -1,4 +1,3 @@
-# Name LastName
 [Github](google.com) | Github | Github | Github 
 
 ## Education
